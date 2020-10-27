@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0P/FJzva3D4tcuQ/XckQxkAntQtt8i8Vzws1SHrdauaEZQTaxjtXd4io2iImDsWBlAzdyfynHF1bDLNLQ8GmlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dalli\\source\\repos\\DPBuyingCar\\DPBuyingCar\\DPBuyingCar.iOS\\DPBuyingCar.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

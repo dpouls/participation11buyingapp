@@ -1,0 +1,14 @@
+C:\Users\dalli\source\repos\DPBuyingCar\DPBuyingCar\DPBuyingCar\bin\Debug\netstandard2.0\DPBuyingCar.deps.json
+C:\Users\dalli\source\repos\DPBuyingCar\DPBuyingCar\DPBuyingCar\bin\Debug\netstandard2.0\DPBuyingCar.dll
+C:\Users\dalli\source\repos\DPBuyingCar\DPBuyingCar\DPBuyingCar\bin\Debug\netstandard2.0\ref\DPBuyingCar.dll
+C:\Users\dalli\source\repos\DPBuyingCar\DPBuyingCar\DPBuyingCar\bin\Debug\netstandard2.0\DPBuyingCar.pdb
+C:\Users\dalli\source\repos\DPBuyingCar\DPBuyingCar\DPBuyingCar\obj\Debug\netstandard2.0\DPBuyingCar.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\DPBuyingCar\DPBuyingCar\DPBuyingCar\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dalli\source\repos\DPBuyingCar\DPBuyingCar\DPBuyingCar\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dalli\source\repos\DPBuyingCar\DPBuyingCar\DPBuyingCar\obj\Debug\netstandard2.0\DPBuyingCar.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\DPBuyingCar\DPBuyingCar\DPBuyingCar\obj\Debug\netstandard2.0\DPBuyingCar.AssemblyInfo.cs
+C:\Users\dalli\source\repos\DPBuyingCar\DPBuyingCar\DPBuyingCar\obj\Debug\netstandard2.0\DPBuyingCar.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\DPBuyingCar\DPBuyingCar\DPBuyingCar\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dalli\source\repos\DPBuyingCar\DPBuyingCar\DPBuyingCar\obj\Debug\netstandard2.0\DPBuyingCar.dll
+C:\Users\dalli\source\repos\DPBuyingCar\DPBuyingCar\DPBuyingCar\obj\Debug\netstandard2.0\ref\DPBuyingCar.dll
+C:\Users\dalli\source\repos\DPBuyingCar\DPBuyingCar\DPBuyingCar\obj\Debug\netstandard2.0\DPBuyingCar.pdb
